@@ -1,4 +1,4 @@
-package com.xingfeng.exer1;
+package com.xingfeng.exer1.array;
 
 /**
  * 有一个NxN整数矩阵，请编写一个算法，将矩阵顺时针旋转90度。

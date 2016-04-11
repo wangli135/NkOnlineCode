@@ -1,4 +1,4 @@
-package com.xingfeng.exer1;
+package com.xingfeng.exer1.array;
 
 /**
  * 对于一个矩阵，请设计一个算法从左上角(mat[0][0])开始，顺时针打印矩阵元素。
